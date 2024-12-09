@@ -61,7 +61,7 @@ Are you looking for a skilled professional to help with your next project? Let�
 ---
 
 ## 📫 Get in Touch:
-- **Email**: [aareez.asif@aretec.ai](mailto:aareez@hypremia.com)
+- **Email**: [aareez.asif@hypremia.com](mailto:aareez@hypremia.com)
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/aareez-asif-852677247/)
 - **GitHub Projects**: Explore my repositories to see what I’m working on.
 
