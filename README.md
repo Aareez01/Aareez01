@@ -131,6 +131,16 @@ I'm selective about the work I take on, but always open to conversations about *
 
 <div align="center">
 
+<a href="https://upwork.com/freelancers/aareezasif">
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Hire%20me%20on%20Upwork-6FDA44?style=for-the-badge&logoColor=white&labelColor=14A800" height="42" />
+</a>
+
+<sub><i>Available for contract & long-term engagements</i></sub>
+
+</div>
+
+<div align="center">
+
 **📬 [aareez@hypremia.com](mailto:aareez@hypremia.com)** &nbsp;•&nbsp; **💼 [LinkedIn](https://www.linkedin.com/in/aareez-asif-852677247/)** &nbsp;•&nbsp; **💚 [Upwork](https://upwork.com/freelancers/aareezasif)**
 
 <br/>
