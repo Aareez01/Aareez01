@@ -150,12 +150,17 @@ I help teams move from *"it works on my machine"* to production systems that sta
 
 ---
 
-### ✍️ From the blog — [devopsil.com](https://devopsil.com)
+### ✍️ I write at [DevOpsil](https://devopsil.com)
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<div align="center">
 
-<sub>Auto-updated via GitHub Actions. Read more at [devopsil.com](https://devopsil.com) →</sub>
+<a href="https://devopsil.com">
+  <img src="https://img.shields.io/badge/Read%20the%20blog-devopsil.com-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0D1117" height="42" />
+</a>
+
+<sub><i>Production-tested DevOps tutorials on Kubernetes, CI/CD, Terraform, Docker, cloud cost optimization, security, and monitoring from engineers who ship.</i></sub>
+
+</div>
 
 ---
 
