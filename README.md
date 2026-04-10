@@ -150,6 +150,15 @@ I help teams move from *"it works on my machine"* to production systems that sta
 
 ---
 
+### ✍️ From the blog — [devopsil.com](https://devopsil.com)
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<sub>Auto-updated via GitHub Actions. Read more at [devopsil.com](https://devopsil.com) →</sub>
+
+---
+
 ### Let's build something
 
 I'm selective about the work I take on, but always open to conversations about **hard infrastructure problems**, **AI-in-production**, or **founding teams that need a technical co-pilot**.
@@ -159,6 +168,13 @@ I'm selective about the work I take on, but always open to conversations about *
 <a href="https://upwork.com/freelancers/aareezasif">
   <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Hire%20me%20on%20Upwork-6FDA44?style=for-the-badge&logoColor=white&labelColor=14A800" height="42" />
 </a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/%E2%AD%90%20Top%20Rated-14A800?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/JSS-100%25-6FDA44?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Earned-%2410K%2B-14A800?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Hours-340%2B-6FDA44?style=flat-square&logoColor=white" />
 
 <sub><i>Available for contract & long-term engagements</i></sub>
 
