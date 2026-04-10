@@ -4,12 +4,12 @@
 
 <a href="https://www.linkedin.com/in/aareez-asif-852677247/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:aareez@hypremia.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://hypremia.com"><img src="https://img.shields.io/badge/Hypremia-111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://kodeaura.com"><img src="https://img.shields.io/badge/KodeAura-111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=Aareez01&style=for-the-badge&color=0A66C2" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=0A66C2&center=true&vCenter=true&width=720&lines=Founder+%40+Hypremia;Cloud+Architect+%26+DevOps+Engineer;I+ship+infrastructure+that+doesn't+wake+you+at+3AM;Turning+coffee+%E2%98%95+into+uptime+%E2%9A%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=0A66C2&center=true&vCenter=true&width=720&lines=Founder+%40+KodeAura;Cloud+Architect+%26+DevOps+Engineer;I+ship+infrastructure+that+doesn't+wake+you+at+3AM;Turning+coffee+%E2%98%95+into+uptime+%E2%9A%A1" />
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ```yaml
 name:      Aareez Asif
-role:      Founder & Engineer @ Hypremia
+role:      Founder & Engineer @ KodeAura
 focus:     [ Cloud Infra, DevOps, AI/ML, Blockchain ]
 mission:   Building resilient systems that scale quietly
 currently: Architecting Kubernetes platforms & shipping AI features
