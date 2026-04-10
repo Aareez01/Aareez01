@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aareez%20Asif&fontSize=60&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Cloud%20%E2%80%A2%20DevOps%20%E2%80%A2%20AI%20%E2%80%A2%20Blockchain&descSize=18&descAlignY=60" alt="header" />
 
 <a href="https://www.linkedin.com/in/aareez-asif-852677247/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:aareez@hypremia.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:aareez@kodeaura.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://upwork.com/freelancers/aareezasif"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
 <a href="https://kodeaura.com"><img src="https://img.shields.io/badge/KodeAura-111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=Aareez01&style=for-the-badge&color=0A66C2" />
@@ -31,11 +31,13 @@ open_to:   Consulting • Architecture reviews • Founding-engineer gigs
 
 ### What I actually do
 
-I help teams move from *"it works on my machine"* to **99.99% uptime in production**. Most of my work lives at the intersection of three things:
+I help teams move from *"it works on my machine"* to production systems that stay quiet at 3 AM. Most of my work lives at the intersection of three things:
 
-> **Infrastructure that scales** — Kubernetes clusters, Terraform modules, and CI/CD pipelines that survive Black Friday traffic.
-> **Intelligence that ships** — wiring LLMs and ML models into real products, not demos.
-> **Systems you can trust** — observability, SIEM, and blockchain primitives where correctness isn't optional.
+> **🏗️ Infrastructure that scales** — Kubernetes platforms, Terraform modules, and GitOps pipelines built to survive traffic spikes and rollbacks without heroics.
+>
+> **🧠 Intelligence that ships** — wiring LLMs and ML models into real products — with eval harnesses, observability, and cost guardrails, not just demos.
+>
+> **🛡️ Systems you can trust** — observability that actually catches problems, SIEM workflows that separate signal from noise, and blockchain primitives where correctness isn't optional.
 
 ---
 
@@ -114,6 +116,8 @@ I help teams move from *"it works on my machine"* to **99.99% uptime in producti
 
 <img src="https://streak-stats.demolab.com/?user=Aareez01&theme=tokyonight&hide_border=true&background=0D1117&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aareez01&bg_color=0D1117&color=c9d1d9&line=0A66C2&point=ffffff&area=true&hide_border=true" width="95%" />
+
 </div>
 
 ---
@@ -143,9 +147,7 @@ I'm selective about the work I take on, but always open to conversations about *
 
 <div align="center">
 
-**📬 [aareez@hypremia.com](mailto:aareez@hypremia.com)** &nbsp;•&nbsp; **💼 [LinkedIn](https://www.linkedin.com/in/aareez-asif-852677247/)** &nbsp;•&nbsp; **💚 [Upwork](https://upwork.com/freelancers/aareezasif)**
-
-<br/>
+<sub><i>“Measure twice, deploy once.”</i></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
