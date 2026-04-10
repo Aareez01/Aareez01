@@ -129,6 +129,25 @@ I help teams move from *"it works on my machine"* to production systems that sta
 - ⛓️ **Blockchain settlement layers** — secure, auditable transaction primitives
 - 📈 **Zero-downtime migrations** — moving legacy stacks to the cloud without the drama
 
+### 📌 Featured work
+
+<div align="center">
+
+<a href="https://github.com/Aareez01/kubernetes-v1.30.2-cluster-using-kubeadm">
+  <img src="https://github-readme-stats.hackclub.dev/api/pin/?username=Aareez01&repo=kubernetes-v1.30.2-cluster-using-kubeadm&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/Aareez01/kubeinspector">
+  <img src="https://github-readme-stats.hackclub.dev/api/pin/?username=Aareez01&repo=kubeinspector&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/Aareez01/MySQL-HA-Cluster-with-MySQL-Router-Keepalived">
+  <img src="https://github-readme-stats.hackclub.dev/api/pin/?username=Aareez01&repo=MySQL-HA-Cluster-with-MySQL-Router-Keepalived&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/Aareez01/HAProxy-Setup-with-Rate-Limiting-CORS-and-OWASP-Compliance">
+  <img src="https://github-readme-stats.hackclub.dev/api/pin/?username=Aareez01&repo=HAProxy-Setup-with-Rate-Limiting-CORS-and-OWASP-Compliance&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9" />
+</a>
+
+</div>
+
 ---
 
 ### Let's build something
