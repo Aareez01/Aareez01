@@ -4,6 +4,7 @@
 
 <a href="https://www.linkedin.com/in/aareez-asif-852677247/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:aareez@hypremia.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://upwork.com/freelancers/aareezasif"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
 <a href="https://kodeaura.com"><img src="https://img.shields.io/badge/KodeAura-111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=Aareez01&style=for-the-badge&color=0A66C2" />
 
@@ -130,7 +131,7 @@ I'm selective about the work I take on, but always open to conversations about *
 
 <div align="center">
 
-**📬 [aareez@hypremia.com](mailto:aareez@hypremia.com)** &nbsp;•&nbsp; **💼 [LinkedIn](https://www.linkedin.com/in/aareez-asif-852677247/)**
+**📬 [aareez@hypremia.com](mailto:aareez@hypremia.com)** &nbsp;•&nbsp; **💼 [LinkedIn](https://www.linkedin.com/in/aareez-asif-852677247/)** &nbsp;•&nbsp; **💚 [Upwork](https://upwork.com/freelancers/aareezasif)**
 
 <br/>
 
