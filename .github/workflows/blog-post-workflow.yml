@@ -19,3 +19,5 @@ jobs:
           max_post_count: 5
           template: "- [$title]($url) <sub>$date</sub>"
           date_format: "mmm dd, yyyy"
+          user_agent: "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+          accept_header: "application/rss+xml,application/xml;q=0.9,*/*;q=0.8"
