@@ -111,8 +111,8 @@ I help teams move from *"it works on my machine"* to production systems that sta
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.hackclub.dev/api?username=Aareez01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=Aareez01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0A66C2&text_color=c9d1d9&langs_count=8" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aareez01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aareez01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0A66C2&text_color=c9d1d9&langs_count=8" />
 
 <img src="https://streak-stats.demolab.com/?user=Aareez01&theme=tokyonight&hide_border=true&background=0D1117&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" />
 
