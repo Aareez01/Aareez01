@@ -131,22 +131,48 @@ I help teams move from *"it works on my machine"* to production systems that sta
 
 ### 📌 Featured work
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/Aareez01/kubernetes-v1.30.2-cluster-using-kubeadm">
-  <img src="https://github-readme-stats.hackclub.dev/api/pin/?username=Aareez01&repo=kubernetes-v1.30.2-cluster-using-kubeadm&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/Aareez01/kubeinspector">
-  <img src="https://github-readme-stats.hackclub.dev/api/pin/?username=Aareez01&repo=kubeinspector&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/Aareez01/MySQL-HA-Cluster-with-MySQL-Router-Keepalived">
-  <img src="https://github-readme-stats.hackclub.dev/api/pin/?username=Aareez01&repo=MySQL-HA-Cluster-with-MySQL-Router-Keepalived&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/Aareez01/HAProxy-Setup-with-Rate-Limiting-CORS-and-OWASP-Compliance">
-  <img src="https://github-readme-stats.hackclub.dev/api/pin/?username=Aareez01&repo=HAProxy-Setup-with-Rate-Limiting-CORS-and-OWASP-Compliance&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9" />
-</a>
+#### ☸️ [kubernetes-v1.30.2-cluster-using-kubeadm](https://github.com/Aareez01/kubernetes-v1.30.2-cluster-using-kubeadm)
+<img src="https://img.shields.io/github/stars/Aareez01/kubernetes-v1.30.2-cluster-using-kubeadm?style=flat-square&color=0A66C2&labelColor=0D1117" />
+<img src="https://img.shields.io/github/forks/Aareez01/kubernetes-v1.30.2-cluster-using-kubeadm?style=flat-square&color=0A66C2&labelColor=0D1117" />
 
-</div>
+Production-grade step-by-step guide to bootstrap a Kubernetes v1.30.2 cluster on Ubuntu 22.04 LTS with `kubeadm` — containerd, calico, and all the gotchas solved.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔍 [kubeinspector](https://github.com/Aareez01/kubeinspector)
+<img src="https://img.shields.io/github/stars/Aareez01/kubeinspector?style=flat-square&color=0A66C2&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+
+Go-based auditor for Kubernetes clusters — surfaces orphaned resources, estimates cost, and flags ingress misconfiguration before they turn into incidents.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🗄️ [MySQL HA Cluster](https://github.com/Aareez01/MySQL-HA-Cluster-with-MySQL-Router-Keepalived)
+<img src="https://img.shields.io/github/stars/Aareez01/MySQL-HA-Cluster-with-MySQL-Router-Keepalived?style=flat-square&color=0A66C2&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+
+Production-grade MySQL InnoDB Cluster with automatic failover via MySQL Router + Keepalived — tolerates single-node loss without data loss.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛡️ [HAProxy + OWASP Compliance](https://github.com/Aareez01/HAProxy-Setup-with-Rate-Limiting-CORS-and-OWASP-Compliance)
+<img src="https://img.shields.io/github/stars/Aareez01/HAProxy-Setup-with-Rate-Limiting-CORS-and-OWASP-Compliance?style=flat-square&color=0A66C2&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/HAProxy-106DA9?style=flat-square&logo=haproxy&logoColor=white" />
+
+Hardened HAProxy edge with rate limiting, CORS, and OWASP-compliant headers — drop-in config for security-conscious production.
+
+</td>
+</tr>
+</table>
 
 ---
 
